@@ -1,0 +1,1 @@
+{"POST_ID":"17","GROUP_NAME":"comp.lang.c++","GROUP_ID":"6","AUTHOR":"333","TIMESTAMP":"5/23/16 3:54 PM","SUBJECT":"What is The Rule of Three?","CONTENT":"What does copying an object mean? What are the copy constructor and the copy assignment operator? When do I need to declare them myself? How can I prevent my objects from being copied?"}

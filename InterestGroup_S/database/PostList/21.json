@@ -1,0 +1,1 @@
+{"POST_ID":"19","GROUP_NAME":"comp.lang.swift","GROUP_ID":"7","AUTHOR":"333","TIMESTAMP":"7/15/16 7:43 PM","SUBJECT":"How to call Objective-C code from Swift","CONTENT":"Apple mentioned that they could co-exist in one application, but does this mean that one could technically re-use old classes made in Objective-C whilst building new classes in Swift?"}

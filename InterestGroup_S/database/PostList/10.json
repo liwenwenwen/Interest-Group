@@ -1,0 +1,1 @@
+{"POST_ID":"10","GROUP_NAME":"comp.lang.python","GROUP_ID":"3","AUTHOR":"333","TIMESTAMP":"1/10/16 9:58 PM","SUBJECT":"Asking the user for input until they give a valid response","CONTENT":"The simplest way to accomplish this would be to put the input method in a while loop. Use continue when you get bad input, and break out of the loop when you're satisfied.\n"}

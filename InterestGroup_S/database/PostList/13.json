@@ -1,0 +1,1 @@
+{"POST_ID":"13","GROUP_NAME":"comp.lang.javascript","GROUP_ID":"4","AUTHOR":"333","TIMESTAMP":"1/10/16 7:23 PM","SUBJECT":"How do I return the response from an asynchronous call?","CONTENT":"I have a function foo which makes an Ajax request. How can I return the response from foo?"}

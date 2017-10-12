@@ -1,0 +1,1 @@
+{"POST_ID":"6","GROUP_NAME":"comp.lang.java","GROUP_ID":"5","AUTHOR":"333","TIMESTAMP":"11/10/16 11:11 PM","SUBJECT":"Is Java “pass-by-reference” or “pass-by-value”?","CONTENT":"Java is always pass-by-value. Unfortunately, they decided to call pointers references, thus confusing newbies. Because those references are passed by value."}
